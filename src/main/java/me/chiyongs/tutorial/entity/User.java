@@ -1,12 +1,9 @@
-package me.chiyongs.jwttutorial.entity;
+package me.chiyongs.tutorial.entity;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.*;
 
 import javax.persistence.*;
-import javax.validation.constraints.NotNull;
-import javax.validation.constraints.Size;
-import java.util.HashSet;
 import java.util.Set;
 
 @Entity

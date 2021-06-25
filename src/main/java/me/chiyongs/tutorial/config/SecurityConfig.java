@@ -1,4 +1,4 @@
-package me.chiyongs.jwttutorial.config;
+package me.chiyongs.tutorial.config;
 
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.web.builders.WebSecurity;
